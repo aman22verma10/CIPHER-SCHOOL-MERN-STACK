@@ -1,6 +1,5 @@
 console.log("My console statement");
 
-syntax and declaration   
 
     var score = 30;
     var result = 50;
@@ -9,16 +8,6 @@ syntax and declaration
     console.log(score);
     console.log(result);
     console.log(PI);
-
-Datatypes
-    1. Number
-    2. Strings
-    3. Boolean
-    4. Null
-    5. Undefined
-    6. Objects
-    7. Symbols(es6)
-
 
 let score = 30;                    
 let result = "10";               
@@ -40,7 +29,4 @@ console.log(typeof (avgScore));
 
 
 let value = (( finalScore ** 2 )*10/ (penality + totalGames))
-console.log(value);       
-
- if totalGames= 'five'
-console.log(value);      
+console.log(value);           
